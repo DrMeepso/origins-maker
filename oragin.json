@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:power"
+	],
+	"icon": {
+		"item": "minecraft:item"
+	},
+	"order": 1,
+	"impact": 1
+}
