@@ -1,0 +1,10 @@
+arachnid
+avian
+blazeborn
+elytrian
+enderian
+feline
+human
+merling
+phantom
+shulk
